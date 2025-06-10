@@ -1,2 +1,2 @@
-![Image 2025 06 10 at 14 45 (4)](https://github.com/user-attachments/assets/b91d8e8e-1eeb-4470-8590-dd9c9c2f740d)
+Танд 2массив өгөгдөнө.Эхний массив нь буудлагын мужууд 2дахь нь байнуудын мужууд.Хамгийн их давхцалтай хэсгийг ол.
 https://www.hackerrank.com/challenges/x-and-his-shots/problem?isFullScreen=true
